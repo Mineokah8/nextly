@@ -29,9 +29,10 @@ export function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website template for
-              startups and indie projects. Its built with Next.js & TailwindCSS.
-              And its completely open-source.
+            [YourBrand] is the ultimate multiuser e-commerce platform 
+            where buyers discover unique products and sellers grow 
+            thriving businesses. Whether you're here to shop amazing 
+            deals or start your online store, we've got everything you need — all in one place.
             </div>
 
             <div className="mt-5">
@@ -41,12 +42,7 @@ export function Footer() {
                 rel="noopener"
                 className="relative block w-44"
               >
-                <Image
-                  src="/img/vercel.svg"
-                  alt="Powered by Vercel"
-                  width="212"
-                  height="44"
-                />
+                
               </a>
             </div>
           </div>
@@ -113,14 +109,8 @@ export function Footer() {
         </div>
 
         <div className="my-10 text-sm text-center text-gray-600 dark:text-gray-400">
-          Copyright © {new Date().getFullYear()}. Made with ♥ by{" "}
-          <a href="https://web3templates.com/" target="_blank" rel="noopener">
-            Web3Templates.
-          </a>{" "}
-          Illustrations from{" "}
-          <a href="https://www.glazestock.com/" target="_blank" rel="noopener ">
-            Glazestock
-          </a>
+          Copyright © {new Date().getFullYear()}. 
+          
         </div>
       </Container>
       {/* Do not remove this */}
@@ -199,7 +189,7 @@ const Backlink = () => {
         />
       </svg>
 
-      <span>Web3Templates</span>
+      <span></span>
     </a>
   );
 };

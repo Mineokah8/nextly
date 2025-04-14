@@ -18,7 +18,7 @@
     "tailwindcss",
     "free"
   ],
-  "author": "Surjith S M",
+  "author": "Mine",
   "license": "ISC",
   "dependencies": {
     "@headlessui/react": "^2.0.3",

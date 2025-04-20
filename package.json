@@ -1,7 +1,7 @@
 {
-  "name": "nextly-template",
+  "name": "shopping-mart",
   "version": "2.0.0",
-  "description": "Nextly Landing Page Template",
+  "description": "a shopping mart template built with Next.js and Tailwind CSS",  
   "private": true,
   "scripts": {
     "dev": "next dev",

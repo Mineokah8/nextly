@@ -36,21 +36,26 @@ export const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "How do I create an account as a buyer or seller?",
+    answer: "You can sign up as a buyer or seller by selecting your role during the registration process. Buyers can browse and purchase products, while sellers get access to tools for managing listings, orders, and payments.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Can I switch between buyer and seller accounts?",
+    answer: "Yes, users can switch between buyer and seller modes from their account dashboard. If you initially signed up as a buyer, you can activate seller features at any time.",
   },
   {
-    question: "What is your refund policy? ",
+    question: " How are payments processed and when do sellers get paid? ",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Payments are securely processed through our payment gateway. Sellers receive payouts to their linked bank account or wallet once an order is confirmed and marked as delivered, typically within 3–5 business days.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "What should I do if I receive a damaged or incorrect item?",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "If you receive a damaged or incorrect item, you can initiate a return or request a refund through your order history page. Be sure to report the issue within the return window stated in our return policy.",
   },
+  {
+    question: "How can I ensure my store or purchases are secure?",
+    answer:
+      "We prioritize your safety by using encrypted transactions, verifying sellers, and monitoring for suspicious activity. Always communicate and complete transactions within the platform to stay protected.If you encounter any issues, our support team is available to assist you.",
+    }
 ];

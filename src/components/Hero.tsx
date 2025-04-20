@@ -14,8 +14,8 @@ export const Hero = () => {
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
             [YourBrand] is the ultimate multiuser e-commerce platform 
             where buyers discover unique products and sellers grow 
-            thriving businesses. Whether you're here to shop amazing 
-            deals or start your online store, we've got everything you need — all in one place.
+            thriving businesses. Whether you&apos;re here to shop amazing 
+            deals or start your online store, we&apos;ve got everything you need — all in one place.
             </p>
 
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">

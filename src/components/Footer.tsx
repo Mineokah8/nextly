@@ -31,8 +31,8 @@ export function Footer() {
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
             [YourBrand] is the ultimate multiuser e-commerce platform 
             where buyers discover unique products and sellers grow 
-            thriving businesses. Whether you're here to shop amazing 
-            deals or start your online store, we've got everything you need — all in one place.
+            thriving businesses. Whether you&apos;re here to shop amazing 
+            deals or start your online store, we&apos;ve got everything you need — all in one place.
             </div>
 
             <div className="mt-5">
